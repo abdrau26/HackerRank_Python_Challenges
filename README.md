@@ -5,3 +5,7 @@ In this Github repository, I aim to showcase my Python skills. I have tackled nu
 <div>
     https://www.hackerrank.com/profile/abdrau26
 </div>
+
+1. String Formatting
+
+2. Capitalize!
