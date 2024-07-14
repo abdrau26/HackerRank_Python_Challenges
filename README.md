@@ -9,3 +9,5 @@ In this Github repository, I aim to showcase my Python skills. I have tackled nu
 1. String Formatting
 
 2. Capitalize!
+
+3. itertools.product()
